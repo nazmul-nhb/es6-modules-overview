@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "brand": "Apple",
+        "model": "Watch Series 7",
+        "display": "Always-On Retina",
+        "batteryLife": "Up to 18 hours",
+        "features": [
+            "ECG",
+            "Blood Oxygen",
+            "Fitness Tracking"
+        ],
+        "price": 399.99
+    },
+    {
+        "id": 2,
+        "brand": "Samsung",
+        "model": "Galaxy Watch 4",
+        "display": "Super AMOLED",
+        "batteryLife": "Up to 40 hours",
+        "features": [
+            "Body Composition",
+            "Sleep Tracking",
+            "SpO2"
+        ],
+        "price": 249.99
+    },
+    {
+        "id": 3,
+        "brand": "Fitbit",
+        "model": "Sense",
+        "display": "AMOLED",
+        "batteryLife": "Up to 6 days",
+        "features": [
+            "Stress Tracking",
+            "Built-in GPS",
+            "Skin Temperature"
+        ],
+        "price": 299.95
+    },
+    {
+        "id": 4,
+        "brand": "Garmin",
+        "model": "Venu 2",
+        "display": "AMOLED",
+        "batteryLife": "Up to 11 days",
+        "features": [
+            "Advanced Sleep Monitoring",
+            "Pulse Oximeter",
+            "Animated Workouts"
+        ],
+        "price": 399.99
+    },
+    {
+        "id": 5,
+        "brand": "Huawei",
+        "model": "Watch GT 3",
+        "display": "AMOLED",
+        "batteryLife": "Up to 14 days",
+        "features": [
+            "TruSleep",
+            "SpO2 Monitoring",
+            "100+ Workout Modes"
+        ],
+        "price": 229.99
+    },
+    {
+        "id": 6,
+        "brand": "Fossil",
+        "model": "Gen 6",
+        "display": "AMOLED",
+        "batteryLife": "Up to 24 hours",
+        "features": [
+            "Voice Calling",
+            "Sleep Tracking",
+            "Heart Rate Monitoring"
+        ],
+        "price": 299.00
+    },
+    {
+        "id": 7,
+        "brand": "Xiaomi",
+        "model": "Mi Watch Revolve",
+        "display": "AMOLED",
+        "batteryLife": "Up to 14 days",
+        "features": [
+            "PAI (Personal Activity Intelligence)",
+            "Sleep Analysis",
+            "SpO2"
+        ],
+        "price": 159.99
+    },
+    {
+        "id": 8,
+        "brand": "Amazfit",
+        "model": "GTR 3",
+        "display": "AMOLED",
+        "batteryLife": "Up to 21 days",
+        "features": [
+            "BioTracker 4 PPG",
+            "SPO2",
+            "Zepp App Integration"
+        ],
+        "price": 179.99
+    },
+    {
+        "id": 9,
+        "brand": "OnePlus",
+        "model": "Watch",
+        "display": "AMOLED",
+        "batteryLife": "Up to 14 days",
+        "features": [
+            "Blood Oxygen Monitoring",
+            "Built-in GPS",
+            "5ATM Water Resistance"
+        ],
+        "price": 159.00
+    },
+    {
+        "id": 10,
+        "brand": "TicWatch",
+        "model": "Pro 3",
+        "display": "AMOLED",
+        "batteryLife": "Up to 72 hours",
+        "features": [
+            "Dual-Layer Display",
+            "Sleep Tracking",
+            "Heart Rate Monitoring"
+        ],
+        "price": 299.99
+    }
+]
